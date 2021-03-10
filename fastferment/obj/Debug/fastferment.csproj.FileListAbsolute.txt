@@ -1,0 +1,12 @@
+C:\Users\fango\source\repos\fastferment\fastferment\bin\Debug\fastferment.dll
+C:\Users\fango\source\repos\fastferment\fastferment\bin\Debug\fastferment.pdb
+C:\Users\fango\source\repos\fastferment\fastferment\bin\Debug\0Harmony.dll
+C:\Users\fango\source\repos\fastferment\fastferment\bin\Debug\assembly_valheim.dll
+C:\Users\fango\source\repos\fastferment\fastferment\bin\Debug\BepInEx.dll
+C:\Users\fango\source\repos\fastferment\fastferment\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\fango\source\repos\fastferment\fastferment\bin\Debug\UnityEngine.dll
+C:\Users\fango\source\repos\fastferment\fastferment\obj\Debug\fastferment.csprojAssemblyReference.cache
+C:\Users\fango\source\repos\fastferment\fastferment\obj\Debug\fastferment.csproj.CoreCompileInputs.cache
+C:\Users\fango\source\repos\fastferment\fastferment\obj\Debug\fastferment.csproj.CopyComplete
+C:\Users\fango\source\repos\fastferment\fastferment\obj\Debug\fastferment.dll
+C:\Users\fango\source\repos\fastferment\fastferment\obj\Debug\fastferment.pdb

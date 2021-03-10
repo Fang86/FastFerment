@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastferment", "fastferment\fastferment.csproj", "{6109C2F6-3616-42E0-AF00-7B5D54896822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6109C2F6-3616-42E0-AF00-7B5D54896822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6109C2F6-3616-42E0-AF00-7B5D54896822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6109C2F6-3616-42E0-AF00-7B5D54896822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6109C2F6-3616-42E0-AF00-7B5D54896822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {896C2671-588E-41A3-9E31-707EFE25D4AA}
+	EndGlobalSection
+EndGlobal
