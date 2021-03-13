@@ -1,0 +1,9 @@
+{
+  "name": "FastFerment",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Allows you to customize how long fermentation takes",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.601"
+  ]
+}
